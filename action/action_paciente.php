@@ -1,4 +1,5 @@
 <?php
+
 require('../vendor/autoload.php');
 $action = $_GET['action'];
 $paciente = new $paciente();
@@ -16,7 +17,7 @@ switch($action)
         echo"<pre>";
         print_r($paciente);
         echo"</prev>";
-       // header(location: /consulorio/view/paciente/listar.php)
+      // header(location: ../consulorio/view/paciente/listar.php)
         break;
       case 'alterar':
         break;

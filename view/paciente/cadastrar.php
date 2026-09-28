@@ -11,7 +11,7 @@ include('../includes/rodape.php');
         Dara de anascimento *: <input name="data_nascimento" type="text" class="form-control" required>
         Telefone *: <input name="telefone" type="text" class="form-control" required>
         Email *: <input name="email" type="text" class="form-control" required>
-        Endereço *: <input name="endereco" type="text" class="form-control" required>
+        Endereço *: <input name="endereco" type="text" class="form-control" required>0
         Convenio *:<input name="convenio" type="text" class="form-control">
         Observação *:<input name="observacao" type="text" class="form-control">
         <input type="submit" value="Cadastrar" class="btn btn-primary" >
