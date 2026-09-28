@@ -1,6 +1,5 @@
 <?php
-
-use App\DataBase;
+use App\Paciente  ;
 
 class Paciente extends Pessoa{
   

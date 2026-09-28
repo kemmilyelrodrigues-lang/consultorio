@@ -1,4 +1,5 @@
 <?php
+namespace App;
 abstract class Pessoa
 {
     public $id;
