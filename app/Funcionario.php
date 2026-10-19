@@ -1,21 +1,22 @@
 <?php
-class Dentista extends Pessoa{
+namespace App;
+class Funcionario extends Pessoa{
     public $cro;
-    public $especialidade;
+    public $especiacidade;
     public $senha;
     public $perfil;
 
-        public function realizarAtendimento()
-        {} 
-     public function prescreverMedicamneto()
-        {}
+    public function cadastrar(){
 
-        public function alterar()
-  {}
+    }
+    public function alerar(){
 
-  public static function  excluir ()
-  {}
-  
-  public static function listar()
-   {}
-}   
+    }
+    public static function excluir(){
+
+    }
+    public static function listar(){
+
+    }
+
+}

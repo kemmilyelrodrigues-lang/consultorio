@@ -3,7 +3,7 @@
         'name' => 'ifto/consultorio',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'c71d67ef41e1a3240f629960c1dcdb0710c6d7b3',
+        'reference' => 'f736eecbf9a82fc4838238857182d6189b9a42ba',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'ifto/consultorio' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'c71d67ef41e1a3240f629960c1dcdb0710c6d7b3',
+            'reference' => 'f736eecbf9a82fc4838238857182d6189b9a42ba',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

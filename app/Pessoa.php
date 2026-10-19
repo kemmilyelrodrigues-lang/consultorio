@@ -1,7 +1,6 @@
 <?php
 namespace App;
-abstract class Pessoa
-{
+abstract class Pessoa{
     public $id;
     public $nome;
     public $cpf;
@@ -9,4 +8,5 @@ abstract class Pessoa
     public $email;
     public $data_nascimento;
     public $endereco;
+    
 }

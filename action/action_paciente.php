@@ -3,8 +3,7 @@ use App\Paciente;
 include('../vendor/autoload.php');
 $action = $_GET['action'];
 $paciente = new Paciente();
-switch($action)
-{
+switch($action){
     case 'cadastrar':
         $paciente->nome = $_POST['nome'];
         $paciente->cpf = $_POST['cpf'];
